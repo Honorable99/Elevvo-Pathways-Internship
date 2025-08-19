@@ -123,3 +123,90 @@ And here’s what the data revealed:
  • 📊 Matplotlib is the favorite for data visualization.
 
 Tool used: Microsoft Excel 📊
+
+AUGUST WAVE 
+
+I joined the August wave of the Elevvo Pathways   Internship immediately after completing the July internship, and this month I was able to go beyond the set number of tasks.
+
+In this post, I’ll be sharing all 5 dashboards I worked on for easy submission. The datasets were sourced from Kaggle and include:
+	•	E-Commerce dataset
+	•	Aviation Crash dataset
+	•	Global Airport dataset
+	•	Netflix Customer Churn dataset
+	•	La Liga (2012–2023) dataset
+
+Project 1. E-Commerce Analysis
+
+Findings:
+
+	•	741 orders across 100 cities.
+	•	Web sales performed better than WhatsApp sales.
+	•	Wah Cantt recorded the highest sales, while Burewala had the least.
+
+What to do:
+
+	•	Increase marketing push on WhatsApp to balance sales channels.
+	•	Study Burewala’s low performance to identify demand gaps or delivery issues.
+
+
+Project 2. Aviation Crash Analysis
+
+Findings:
+
+	•	5 damages and 47 fatalities recorded.
+	•	Operator with the most crashes: Key Lime.
+	•	Location with most crashes: Chicago.
+	•	Aircraft type most involved: Cessna 20.
+
+What to do:
+
+	•	Strengthen safety checks and training for operators like Key Lime.
+	•	Conduct maintenance inspections on frequently used aircraft models.
+
+Project 3. Global Airport Analysis
+
+Findings:
+
+	•	5027 airports across 227 countries and 4725 cities.
+	•	371 unique time zones recorded.
+	•	Deep insights:
+	•	Glentanner had the highest geopoint longitude.
+	•	USA had the highest number of airports.
+
+What to do:
+
+ •	Prioritize investment in regions with fewer airports to expand connectivity.
+	•	Benchmark US airport strategies for improving global air network density.
+
+Project 4. Netflix Customer Churn Analysis
+
+Findings:
+
+	•	5000 customers across 6 regions.
+	•	Generates $68.42k monthly revenue.
+	•	Uses over 5 payment methods.
+	•	Deep insights:
+	•	111 customers aged 63 churned.
+	•	Premium subscribers churned more than others (+1,500).
+	•	Female customers churned 34.22% more than males.
+	•	Tablet users churned more than other device users (+1000).
+	•	Debit card users churned 20.6% more than other payment methods.
+
+What to do:
+
+	•	Provide retention incentives for premium users.
+	•	Create age-specific engagement strategies (especially for seniors).
+	•	Target female customers with tailored recommendations.
+	•	Improve tablet user experience (UI, performance, or streaming quality).
+
+Project 5. La Liga (2012–2023) Analysis
+
+Findings:
+
+ •	5422 goals scored, 5410 goals conceded.
+	•	5.39k expected goals, 557 penalties, and 49k shots.
+	•	Deep insights:
+	•	Most matches played on Sundays.
+	•	Barcelona had the highest possession.
+	•	Real Madrid had the most shots.
+	•	4-4-2 formation was the most used.
